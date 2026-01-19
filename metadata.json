@@ -1,0 +1,5 @@
+{
+  "name": "ConCom",
+  "description": "A privacy-first, fully client-side file conversion and compression tool. Convert images, documents, and data files instantly within your browser without any server uploads.",
+  "requestFramePermissions": []
+}
