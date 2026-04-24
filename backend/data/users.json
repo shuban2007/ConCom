@@ -1,0 +1,9 @@
+[
+  {
+    "id": "ac8501d5-bc20-43a5-9a39-22e13714c7f7",
+    "email": "test@example.com",
+    "passwordHash": "$2a$10$T9hJdT6kZb5/X82rQzpMYeTIbpe/09AoUVVX0UfT8arZvtJCsFMPm",
+    "tokens": 10,
+    "createdAt": "2026-04-24T14:23:35.372Z"
+  }
+]
